@@ -122,36 +122,36 @@
   }
   
   #gameOverScreen {
-
-  display: none;
-  text-align: center;
-  font-size: 36px;
-}
-
-#gameOverScreen p {
-  margin: 10px 0;
-}
-
-#gameOverScreen #restartButton {
-  font-size: 18px;
-  padding: 10px 20px;
-  background-color: #4CAF50;
-  color: white;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-}
+    display: none;
+    text-align: center;
+    font-size: 36px;
+    color: white;
+  }
+  
+  #gameOverScreen p {
+    margin: 10px 0;
+  }
+  
+  #gameOverScreen #restartButton {
+    font-size: 18px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
 
 #gameOverScreen #restartButton:hover {
   background-color: #0da3fa;
 }
 
   
-  body {
-    background-image: url(../images/space2.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-  }
+      body {
+        background-image: url(../images/space2.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+      }
   
   body::before {
     content: "";
@@ -171,7 +171,7 @@
     white-space: nowrap;
     margin: 0 auto;
     letter-spacing: .15em;
-    animation: typing 3.5s steps(40, end) forwards;
+    animation: typing 3.5s steps(80, end) forwards infinite;
     color: white;
     text-align: center;
   }
@@ -180,5 +180,20 @@
     from { width: 0 }
     to { width: 100% }
   }
+  
+
+  #myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+    filter: blur(10px);
+  }
+
+  #scoreSpan {
+  color: green;
+}
 
   

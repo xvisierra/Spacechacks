@@ -189,7 +189,7 @@ function incrementScore() {
     score++;
     let displayScore = Math.floor(score / 100);
 
-    if (displayScore >= 2) {
+    if (displayScore >= 10  ) {
         document.getElementById("transferButton").style.display = "block";
     }
 

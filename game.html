@@ -4,35 +4,33 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KnowTheHistory</title>
+    <title>Spacehacks</title>
     <link rel="stylesheet" href="css/game.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
 </head>
 <body id="body" onkeydown="whichKey(event)">
-    <div class="gameon">
-        <div class="game">
-        <div id="character"></div>
-        <image src="./images/7.png" id="obstacle"></image>
-    </div>
-    <p>Score: <span id="scoreSpan"></span></p>
+    <br>
+    <h1 class="spacehacks-heading">Spacehacks</h1>
 
-    <div id="gameOverScreen">
-        <p>Game Over</p>
-        <p>Your score: <span id="scoreSpan2"></span></p>
-        <p>Highest Score: <span id="highScore"></span></p>
-        <p><button id="restartButton" onclick="restart()">Restart</button></p>
-    </div>
+        <div class="gameon"><br><br><br>
+            <div class="game">
+            <div id="character"></div>
+            <image src="./images/7.png" id="obstacle"></image>
+        </div><br>
 
+        <!-- <button onclick="toggleFullScreen()" >Toggle Fullscreen</button> -->
+        <p style="font-size: 36px; color: #ffffff;">Score: <span id="scoreSpan"></span></p><div id="gameOverScreen"><p class    >Game Over</p><p>Your score: <span id="scoreSpan2"></span></p><p>Highest Score: <span id="highScore"></span></p><p><button id="restartButton" onclick="restart()">Restart</button></p></div>
     <div class="eraInfoScreen">
         <h1 class="eraHeader"> Facts Here </h1>
         <p class="eraInfo"></p>
     </div>
     </div>
-    <div class="gameover">
+    <br>
+    <!-- <div class="gameover">
         <img class="goimg" src="./images/gameover.gif"></img>
         <h1>Oops! You could not witness the evolution of life on earth, pls try again! :(</h1>
         <button onclick="restart()">Restart</button>
-    </div>
+    </div> -->
     
 
 </body>

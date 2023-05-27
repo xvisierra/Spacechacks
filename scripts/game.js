@@ -56,36 +56,41 @@ const chars = [
 // era info/facts
 
 const eras = [
-    "The Solar System",
-    "The Milky Way",
-    // "Edicaran",
-    // "Ordovician",
-    // "Devonian",
-    "The Black hole",
+    "The Stars",
+    "The Sunshine",
+     "the color of the hair",
+    "The attraction",
+    "The speed",
+    "The darkness",
     "Mesozoic",
     "Oligocene",
     "Quaternary"
 ]
 
     const eraInfo = [
-        `The Solar System is the gravitationally bound system of the Sun and the objects that orbit it, either directly or indirectly. Of the objects that orbit the Sun directly, the largest are the eight planets, with the remainder being smaller objects, such as dwarf planets and small Solar System bodies.`,
-        `The Milky Way is a barred spiral galaxy with a diameter between 100,000 and 150,000 light-years. It is estimated to contain 100–400 billion stars and more than 100 billion planets.`,
-        `A black hole is a region of spacetime where gravity is so strong that nothing, not even light, can escape. Black holes are formed from the remnants of a large star that has collapsed in on itself. They can have masses ranging from a few times that of the Sun to billions of times its mass.`,
-        `Organizations have proposed plans for a human mission to Mars, the first step towards any colonization effort, but no person has set foot on the planet, and there have been no return missions. However, landers and rovers have successfully explored the planetary surface and delivered information about conditions on the ground.`,
-        `The Hubble Space Telescope is a space telescope that was launched into low Earth orbit in 1990 and remains in operation. It is one of the largest and most versatile space telescopes, renowned both as a vital research tool and as a public relations boon for astronomy.`,
-        `Perseverance, nicknamed Percy, is a car-sized Mars rover designed to explore the Jezero crater on Mars as part of NASA’s Mars 2020 mission. It was manufactured by the Jet Propulsion Laboratory and launched on July 30, 2020`,
-        `The Solar System is the gravitationally bound system of the Sun and the objects that orbit it, either directly or indirectly. Of the objects that orbit the Sun directly, the largest are the eight planets, with the remainder being smaller objects, such as dwarf planets and small Solar System bodies.`,
-        `The Milky Way is a barred spiral galaxy with a diameter between 100,000 and 150,000 light-years. It is estimated to contain 100–400 billion stars and more than 100 billion planets.`,
-        `A black hole is a region of spacetime where gravity is so strong that nothing, not even light, can escape. Black holes are formed from the remnants of a large star that has collapsed in on itself. They can have masses ranging from a few times that of the Sun to billions of times its mass.`,
-        `Organizations have proposed plans for a human mission to Mars, the first step towards any colonization effort, but no person has set foot on the planet, and there have been no return missions. However, landers and rovers have successfully explored the planetary surface and delivered information about conditions on the ground.`,
-        `The Hubble Space Telescope is a space telescope that was launched into low Earth orbit in 1990 and remains in operation. It is one of the largest and most versatile space telescopes, renowned both as a vital research tool and as a public relations boon for astronomy.`,
-        `Perseverance, nicknamed Percy, is a car-sized Mars rover designed to explore the Jezero crater on Mars as part of NASA’s Mars 2020 mission. It was manufactured by the Jet Propulsion Laboratory and launched on July 30, 2020`,
-        `The Solar System is the gravitationally bound system of the Sun and the objects that orbit it, either directly or indirectly. Of the objects that orbit the Sun directly, the largest are the eight planets, with the remainder being smaller objects, such as dwarf planets and small Solar System bodies.`,
-        `The Milky Way is a barred spiral galaxy with a diameter between 100,000 and 150,000 light-years. It is estimated to contain 100–400 billion stars and more than 100 billion planets.`,
-        `A black hole is a region of spacetime where gravity is so strong that nothing, not even light, can escape. Black holes are formed from the remnants of a large star that has collapsed in on itself. They can have masses ranging from a few times that of the Sun to billions of times its mass.`,
-        `Organizations have proposed plans for a human mission to Mars, the first step towards any colonization effort, but no person has set foot on the planet, and there have been no return missions. However, landers and rovers have successfully explored the planetary surface and delivered information about conditions on the ground.`,
-        `The Hubble Space Telescope is a space telescope that was launched into low Earth orbit in 1990 and remains in operation. It is one of the largest and most versatile space telescopes, renowned both as a vital research tool and as a public relations boon for astronomy.`,
-        `Perseverance, nicknamed Percy, is a car-sized Mars rover designed to explore the Jezero crater on Mars as part of NASA’s Mars 2020 mission. It was manufactured by the Jet Propulsion Laboratory and launched on July 30, 2020`
+        `Stars are diverse celestial objects that vary in size, temperature, and luminosity. They form through the gravitational collapse of gas clouds and undergo nuclear fusion in their cores, emitting light and heat into space. Stars play a crucial role in the structure and dynamics of galaxies, making them the predominant celestial objects in the universe.`,
+        `The cosmic microwave background radiation (CMBR) is residual thermal radiation from the early stages of the universe, often referred to as the "afterglow" of the Big Bang. It is isotropic, uniform, and fills all of space, providing strong evidence for the Big Bang theory and supporting the concept of an expanding universe.`,
+        `
+        The estimated age of the universe is approximately 13.8 billion years. This age is derived from various cosmological observations and measurements, including the study of the cosmic microwave background radiation, the expansion rate of the universe, and the ages of the oldest known objects within it`,
+        `The primary forces operating in space and influencing celestial mechanics are gravity and electromagnetism. Gravity governs the motion and interactions of celestial bodies, determining their orbits and shaping the structure of the universe. Electromagnetic forces, such as radiation pressure and magnetic fields, also play a role in celestial dynamics, influencing the behavior of charged particles and interacting with cosmic objects.`,
+        `Astronomers detect and study exoplanets using various methods, including the transit method and the radial velocity method. The transit method observes the periodic dimming of a star's brightness as an exoplanet passes in front of it, while the radial velocity method measures the slight wobble of a star caused by the gravitational pull of an orbiting exoplanet. These techniques provide valuable data on exoplanet properties such as size, mass, and orbital characteristics.`,
+        `The breakthrough discovery supporting the existence of black holes was the detection of gravitational waves. In 2015, the Laser Interferometer Gravitational-Wave Observatory (LIGO) observed gravitational waves generated by the merger of two black holes. This direct evidence confirmed Albert Einstein's theory of general relativity and provided strong confirmation of the existence of black holes as predicted by the theory.`,
+        `The purpose of cosmic rays is not necessarily tied to a specific purpose or function. Cosmic rays are high-energy particles that originate from various astrophysical sources, such as supernovae and active galactic nuclei. They play a crucial role in astrophysics and provide valuable information about the structure of the universe, the acceleration mechanisms of particles, and the magnetic fields in space. Additionally, studying cosmic rays helps us understand the potential impact of high-energy particles on space exploration and human health.`,
+        `The predominant theory explaining the origins of the universe is the Big Bang theory. According to this theory, the universe began as a singularity and has been expanding and evolving ever since. The Big Bang theory is supported by various observational evidence, including the cosmic microwave background radiation, the abundance of light elements, and the redshift of galaxies.`,
+        `The vacuum of space affects astronauts in multiple ways. Without the atmospheric pressure present on Earth, bodily fluids can boil at lower temperatures, leading to potential damage to tissues and organs. Additionally, exposure to the vacuum can cause decompression sickness, resulting in symptoms similar to the bends experienced by scuba divers resurfacing too quickly. Proper spacesuit and spacecraft systems are essential to protect astronauts from the hazards of the space vacuum.`,
+        `The primary objective of space missions is to explore and expand our understanding of the universe, both within our solar system and beyond. Space missions aim to conduct scientific research, advance technological capabilities, study celestial objects, search for signs of life, and potentially establish human presence in space for exploration and colonization purposes.`,
+        `Stars are diverse celestial objects that vary in size, temperature, and luminosity. They form through the gravitational collapse of gas clouds and undergo nuclear fusion in their cores, emitting light and heat into space. Stars play a crucial role in the structure and dynamics of galaxies, making them the predominant celestial objects in the universe.`,
+        `The cosmic microwave background radiation (CMBR) is residual thermal radiation from the early stages of the universe, often referred to as the "afterglow" of the Big Bang. It is isotropic, uniform, and fills all of space, providing strong evidence for the Big Bang theory and supporting the concept of an expanding universe.`,
+        `
+        The estimated age of the universe is approximately 13.8 billion years. This age is derived from various cosmological observations and measurements, including the study of the cosmic microwave background radiation, the expansion rate of the universe, and the ages of the oldest known objects within it`,
+        `The primary forces operating in space and influencing celestial mechanics are gravity and electromagnetism. Gravity governs the motion and interactions of celestial bodies, determining their orbits and shaping the structure of the universe. Electromagnetic forces, such as radiation pressure and magnetic fields, also play a role in celestial dynamics, influencing the behavior of charged particles and interacting with cosmic objects.`,
+        `Astronomers detect and study exoplanets using various methods, including the transit method and the radial velocity method. The transit method observes the periodic dimming of a star's brightness as an exoplanet passes in front of it, while the radial velocity method measures the slight wobble of a star caused by the gravitational pull of an orbiting exoplanet. These techniques provide valuable data on exoplanet properties such as size, mass, and orbital characteristics.`,
+        `The breakthrough discovery supporting the existence of black holes was the detection of gravitational waves. In 2015, the Laser Interferometer Gravitational-Wave Observatory (LIGO) observed gravitational waves generated by the merger of two black holes. This direct evidence confirmed Albert Einstein's theory of general relativity and provided strong confirmation of the existence of black holes as predicted by the theory.`,
+        `The purpose of cosmic rays is not necessarily tied to a specific purpose or function. Cosmic rays are high-energy particles that originate from various astrophysical sources, such as supernovae and active galactic nuclei. They play a crucial role in astrophysics and provide valuable information about the structure of the universe, the acceleration mechanisms of particles, and the magnetic fields in space. Additionally, studying cosmic rays helps us understand the potential impact of high-energy particles on space exploration and human health.`,
+        `The predominant theory explaining the origins of the universe is the Big Bang theory. According to this theory, the universe began as a singularity and has been expanding and evolving ever since. The Big Bang theory is supported by various observational evidence, including the cosmic microwave background radiation, the abundance of light elements, and the redshift of galaxies.`,
+        `The vacuum of space affects astronauts in multiple ways. Without the atmospheric pressure present on Earth, bodily fluids can boil at lower temperatures, leading to potential damage to tissues and organs. Additionally, exposure to the vacuum can cause decompression sickness, resulting in symptoms similar to the bends experienced by scuba divers resurfacing too quickly. Proper spacesuit and spacecraft systems are essential to protect astronauts from the hazards of the space vacuum.`,
+        `The primary objective of space missions is to explore and expand our understanding of the universe, both within our solar system and beyond. Space missions aim to conduct scientific research, advance technological capabilities, study celestial objects, search for signs of life, and potentially establish human presence in space for exploration and colonization purposes.`,
+       
     ]
 
 // checks which key is pressed
@@ -182,16 +187,15 @@ function restart(){
 
 function incrementScore() {
     score++;
-    let displayScore = Math.floor(score/100);
-    // if(displayScore  >= 3){
-    //     level1();
-    // }
-    // if(displayScore >=5){
-    //     darkMode();
-    // }
+    let displayScore = Math.floor(score / 100);
+
+    if (displayScore >= 2) {
+        document.getElementById("transferButton").style.display = "block";
+    }
 
     return displayScore;
 }
+
 
 function level0(){
     character.classList.remove("level0");
@@ -220,3 +224,7 @@ function toggleFullScreen() {
       e.preventDefault();
     }
   });   
+
+document.getElementById("transferButton").addEventListener("click", function() {
+    window.location.href = 'https://codecrushe01.on.joget.cloud/jw/web/userview/quiz/quiz/_/quiz_crud?_mode=add';
+});

@@ -1,22 +1,42 @@
 ## PLAY: http://meteors-told-dinos-come-on-and-join.us/
 ## 💡 Inspiration ![h4](https://user-images.githubusercontent.com/74637789/132989784-04d2e815-1552-4642-95c1-c03be72de800.jpg)
-🦕
-Schools always taught us history in a boring way which made everyone sleepy, right? Well we are here to change that with **No Internet**. We thought of teaching history in a fun, new way where you will know every thing from the start of life to now. You might have guessed from the name itself what inspired us the most is the dino when your internet dies. Let your internet switch off and time machine turn on!
+🚀
+No Internet Game
+No Internet
+## What it does 👨‍🚀
+No Internet is an engaging side-strafing game inspired by the Chrome Dino game. The concept behind the game is to provide an entertaining experience while also incorporating educational elements. The game takes inspiration from the offline page of Chrome, where users encounter a dinosaur when there is no internet connectivity.
 
-## ⚙ What it does 🦕
-This game is inspired by chrome dino but its more fun and filled with knowledge. Ask how? No Internet helps you learn facts of pre historic life till now. The evolution of life can be seen as you start winning more levels. The more levels you win, the more knowledge you gain and you'll see how much your character has evolved.
+## ⚙ Getting Started🚀
+To start playing the game, simply click on the "Play" button on the homepage. The homepage replicates the offline page of Chrome, creating a familiar and nostalgic experience. Once you click the "Play" button, you will be taken to the game page.
 
-## 🔧 How we built it 🦕
-We built it by HTML, CSS and javascript. We made a basic game first and built on it to add more levels and to show the evolution. Then we displayed facts related to each era as our character evolves.
+## 🔧 Game Mechanics👨‍🚀
+The game mechanics are similar to the Chrome Dino game, with a twist. Instead of controlling a dinosaur, you control various miniatures like astronauts, caterpillars, and more. These miniatures change periodically as you progress through the game, adding visual variety and excitement.
 
-## 💪 Challenges we ran into 🦕
-We were not able to sync the character and facts to show along as they evolved at first. We faced few difficulties in making the levels of game showing all the character development till human which is last level.
+## 💪 The objective🚀
+The objective of the game is to navigate through dynamically changing obstacles, showcasing elements of strategy, precision, and timing. The background theme is space-related, enhancing the immersive experience.
 
-## 📌 Accomplishments that we're proud of 🦕
-Finally we made something which is fun to use as a break from studies and it still provides you with knowledge.
+## 📌 Learning Opportunities👨‍🚀
+As you play the game, you will also come across paragraphs about space displayed on the screen. These paragraphs provide interesting facts and information about space, making the game not only entertaining but also educational.
 
-## 📚 What we learned 🦕
-We learned how to make games with levels, we learned to use cockroach db although we could not use it in the end.
+##  📚 Quiz Challenge🚀
+After scoring a certain number of points or reaching a specific milestone, you will be directed to the quiz page. The quiz questions are related to the paragraphs shown during the game. Answering all the quiz questions correctly demonstrates your knowledge of space and earns you the title of "winner."
 
-## ⏭  What's next for No Internet 🦕
-Plan to store all the scores of users, show who is the highest scorer and adding more facts and charecters.
+## ⏭ Are You Ready to Take Humanity to the Next Level?👨‍🚀
+If you manage to win the quiz by scoring full marks, a congratulatory message will be displayed on the screen. This message signifies that you are ready to take humanity to the next level, symbolizing your knowledge and expertise in space-related topics.
+
+## 🚀 Future Plans👨‍🚀
+The No Internet game aims to continue evolving and improving. Some of the future plans include:
+
+Storing user scores and implementing a leaderboard to showcase the highest scorers.
+Adding more facts and paragraphs about space to further enhance the educational aspect of the game.
+Introducing additional characters and backgrounds to provide more visual variety and engagement.
+Technologies Used
+## 🔧 The No Internet game is built using the following technologies:
+
+HTML
+CSS
+JavaScript
+Credits
+The game concept is inspired by the Chrome Dino game.
+Background images and character sprites are sourced from various online repositories.
+Feel free to play

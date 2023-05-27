@@ -1,15 +1,21 @@
-html {
-  overflow-x: hidden;
-}
+  html {
+    overflow-x: hidden;
+  }
 
-body {
-  background: url("../images/bg.jpg") no-repeat scroll 50% 0 #2b4112;
+  body {
+    overflow: hidden;
+    user-select: none;
+  }
 
-  overflow: hidden;
-
-  user-select: none;
-}
-
+  #myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    filter: blur(5px);
+    z-index: -1;
+  }
 
 
 
@@ -56,3 +62,24 @@ body {
 }
 
 /* Rest of your CSS styles */
+@keyframes float {
+  0% {
+    transform: translate(0px, 0px);
+  }
+  25% {
+    transform: translate(10px, -20px);
+  }
+  50% {
+    transform: translate(0px, 0px);
+  }
+  75% {
+    transform: translate(-10px, -20px);
+  }
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+img[src="images/level2/astronaut.jpg"] {
+  animation: float 3s ease-in-out infinite;
+}

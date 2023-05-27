@@ -1,0 +1,96 @@
+/* FONT */
+
+@font-face{ 
+	font-family: 'pokemon';
+	src: url('../fonts/pokemongb-raeo-webfont.woff') format('woff');
+	/* src: url('WebFont.eot?#iefix') format('embedded-opentype'),
+	     url('WebFont.woff') format('woff'),
+	     url('WebFont.ttf') format('truetype'),
+	     url('WebFont.svg#webfont') format('svg'); */
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+.darkMode {
+    background-color: #000;
+    color: white;
+    transition: background-color 1s;
+}
+
+.game{
+    width: 500px;
+    height: 200px;
+    border: 1px solid black;
+    margin: auto;
+    background-image: url(../images/jungle.png);
+}
+
+#character{
+    width: 50px;
+    height: 50px;
+    background-image: url("/images/level0/reptile.gif");
+    background-size: contain;
+    /* Following 2 line Added by Abhishek remove if causes issues later*/
+    background-repeat: no-repeat;
+    background-position: 0px;
+    /* background-color: red; */
+    position: relative;
+    top: 150px;
+}
+.level0{
+    background-image: url("/images/level0/amoeba.png") !important ; 
+}
+
+.animate{
+    animation: jump 0.8s linear;
+}
+@keyframes jump {
+    0%{top: 150px;}
+    30%{top: 100px;}
+    70%{top: 100px;}
+    100%{top: 150px;}
+}
+
+#obstacle{
+    
+    width: 30px;
+    height: 30px;
+    position: relative;
+    top: 120px;
+    left: 500px;
+    animation: obstacle 1s linear infinite;
+}
+
+@keyframes obstacle {
+    0% {left: 500px;}
+    100% {left: -20px;}
+}
+
+p{
+    text-align: center;
+}
+
+#gameOverScreen{
+    display: none;
+}
+.gameover {
+    display: none;
+    background-image: url('./images/gameover.gif');
+}
+
+.eraInfoScreen{
+    /* display: flex; */
+    margin: auto;
+    width: 800px;
+    /* height:888px; */
+    border: 1px solid black;
+}
+
+.eraInfo {
+    margin-top: 11px;
+    text-align: left;
+}

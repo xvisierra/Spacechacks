@@ -83,3 +83,18 @@ body {
 img[src="images/level2/astronaut.jpg"] {
   animation: float 3s ease-in-out infinite;
 }
+
+.spacehacks-heading {
+  overflow: hidden;
+  white-space: nowrap;
+  margin: 0 auto;
+  letter-spacing: .15em;
+  animation: typing 3.5s steps(80, end) forwards infinite;
+  color: white;
+  text-align: center;
+}
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}

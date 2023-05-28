@@ -36,9 +36,9 @@ Technologies Used
 - HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>
 - CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>
 - JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-- Joget @jogetworkflow
-- Replit @replit
-- Chromium @chromium
+- Joget @jogetworkflow (https://github.com/jogetworkflow)
+- Replit @replit (https://github.com/replit)
+- Chromium @chromium (https://github.com/chromium/chromium)
 
 Credits
 The game concept is inspired by the Chrome Dino game.

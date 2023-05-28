@@ -1,4 +1,4 @@
-## PLAY: https://xvisierra.github.io/Spacechacks/
+## Play: https://xvisierra.github.io/Spacechacks/
 ## 💡 Inspiration ![h4](https://user-images.githubusercontent.com/74637789/132989784-04d2e815-1552-4642-95c1-c03be72de800.jpg)
 🚀
 No Internet Game

@@ -1,6 +1,6 @@
 ## Play: https://spacechacks.xvisierra.repl.co
 (The Hack is hosted using Replit at https://replit.com/@xvisierra/Spacechacks)
-## 💡 Inspiration ![h4](https://github.com/xvisierra/Spacechacks/blob/master/images/dino.png)
+## 💡 Inspiration ![h4](images/dino.png)
 🚀
 No Internet Game
 No Internet

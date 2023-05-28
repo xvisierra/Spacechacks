@@ -31,11 +31,13 @@ Storing user scores and implementing a leaderboard to showcase the highest score
 Adding more facts and paragraphs about space to further enhance the educational aspect of the game.
 Introducing additional characters and backgrounds to provide more visual variety and engagement.
 Technologies Used
-## 🔧 The No Internet game is built using the following technologies:
-
-- HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>
-- CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>
-- JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+🔧 The No Internet game is built using the following technologies:
+HTML <img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg” alt=“html5” width=“20” height=“20”/>
+CSS <img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg” alt=“css3” width=“20” height=“20”/>
+JavaScript <img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg” alt=“javascript” width=“20” height=“20”/>
+Chromium <img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chromium/chromium-original.svg” alt=“chromium” width=“20” height=“20”/>
+Joget <img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/joget/joget-original.svg” alt=“joget” width=“20” height=“20”/>
+Replit <img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/replit/replit-original.svg” alt=“replit” width=“20” height=“20”/>
 
 Credits
 The game concept is inspired by the Chrome Dino game.

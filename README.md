@@ -33,9 +33,10 @@ Introducing additional characters and backgrounds to provide more visual variety
 Technologies Used
 ## 🔧 The No Internet game is built using the following technologies:
 
-HTML
-CSS
-JavaScript
+- HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>
+- CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>
+- JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+
 Credits
 The game concept is inspired by the Chrome Dino game.
 Background images and character sprites are sourced from various online repositories.

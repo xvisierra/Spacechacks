@@ -19,7 +19,7 @@ The objective of the game is to navigate through dynamically changing obstacles,
 As you play the game, you will also come across paragraphs about space displayed on the screen. These paragraphs provide interesting facts and information about space, making the game not only entertaining but also educational.
 
 ##  📚 Quiz Challenge🚀
-After scoring a certain number of points or reaching a specific milestone, you will be directed to the quiz page. The quiz questions are related to the paragraphs shown during the game. Answering all the quiz questions correctly demonstrates your knowledge of space and earns you the title of "winner."
+After scoring 10 points in your stride to reach the red planet avoiding asteroids and aliens you are considered to be a captain but for that you have to attempt a quiz and score 7 out of 10 questions which you learned through your journey to be accepted as the messiah of the new civilization.
 
 ## ⏭ Are You Ready to Take Humanity to the Next Level?👨‍🚀
 If you manage to win the quiz by scoring full marks, a congratulatory message will be displayed on the screen. This message signifies that you are ready to take humanity to the next level, symbolizing your knowledge and expertise in space-related topics.

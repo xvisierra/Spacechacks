@@ -21,7 +21,8 @@ The objective of the game is to navigate through dynamically changing obstacles,
 
 As you play the game, you will also come across paragraphs about space displayed on the screen. These paragraphs provide interesting facts and information about space, making the game not only entertaining but also educational.
 
-##  📚 Quiz Challenge🚀 The Quiz is created and hosted using Joget Workflow (https://github.com/jogetworkflow).
+##  📚 Quiz Challenge🚀
+The Quiz is created and hosted using Joget Workflow (https://github.com/jogetworkflow).
 ![h4](https://github.com/xvisierra/Spacechacks/blob/master/images/quiz.png)
 
 After scoring 10 points in your stride to reach the red planet avoiding asteroids and aliens you are considered to be a captain but for that you have to attempt a quiz and score 7 out of 10 questions which you learned through your journey to be accepted as the messiah of the new civilization. 

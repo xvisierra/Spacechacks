@@ -12,7 +12,7 @@ To start playing the game, simply click on the "Play" button on the homepage. Th
 ## 🔧 Game Mechanics👨‍🚀
 The game mechanics are similar to the Chrome Dino game, with a twist. Instead of controlling a dinosaur, you control various miniatures like astronauts, caterpillars, and more. These miniatures change periodically as you progress through the game, adding visual variety and excitement.
 
-## 💪 The objective🚀
+## 💪 The objective🚀 ![h4](https://github.com/xvisierra/Spacechacks/blob/master/images/dino.png)
 The objective of the game is to navigate through dynamically changing obstacles, showcasing elements of strategy, precision, and timing. The background theme is space-related, enhancing the immersive experience.
 
 ## 📌 Learning Opportunities👨‍🚀

@@ -50,3 +50,5 @@ Credits
 The game concept is inspired by the Chrome Dino game.
 Background images and character sprites are sourced from various online repositories.
 Feel free to play
+
+@all-contributors please add @<username> for <contributions>
